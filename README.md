@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christal, an <a href="www.linkedin.com/in/madonna-script-services">IT Professional</a>☺</h1>
+<h1>Hi, I'm Christal, an <a href="www.linkedin.com/in/madonna-script-services">IT Specialist/Developer</a>☺</h1>
 
 <h2>💻 Information Technology Projects:</h2>
 
