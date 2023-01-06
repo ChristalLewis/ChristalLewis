@@ -2,6 +2,8 @@
 
 <h2>💻 Information Technology Projects:</h2>
 
+- <b>Azure Virtual Machine</b>
+  - [Creating Virtual Machines and Using Remote Desktop Connection](https://github.com/ChristalLewis/vm-remote-desktop)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ChristalLewis/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/ChristalLewis/post-install-config)
