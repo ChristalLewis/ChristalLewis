@@ -2,13 +2,12 @@
 
 <h2>💻 Information Technology Projects:</h2>
 
-- <b>Azure Virtual Machine</b>
-  - [Creating Virtual Machines and Using Remote Desktop Connection](https://github.com/ChristalLewis/vm-remote-desktop)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ChristalLewis/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/ChristalLewis/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ChristalLewis/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Creating Virtual Machines and Using Remote Desktop Connection](https://github.com/ChristalLewis/vm-remote-desktop)
   - [Configuring Active Directory within Azure VMs](https://github.com/ChristalLewis/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ChristalLewis/azure-network-protocols)
 
