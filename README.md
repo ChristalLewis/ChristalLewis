@@ -4,8 +4,8 @@
 
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines and Using Remote Desktop Connection](https://github.com/ChristalLewis/vm-remote-desktop)
-  - [Configuring Active Directory within Azure VMs](https://github.com/ChristalLewis/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ChristalLewis/azure-network-protocols)
+  - [Configuring Active Directory within Azure VMs](https://github.com/ChristalLewis/configure-ad)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ChristalLewis/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/ChristalLewis/post-install-config)
